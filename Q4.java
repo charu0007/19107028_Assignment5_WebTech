@@ -24,6 +24,6 @@ public class Myclass {
     obj3.m1();
     }
     }
-public class A5q4 {
+public class Q4 {
     
 }
