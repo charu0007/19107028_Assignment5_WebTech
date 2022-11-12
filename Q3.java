@@ -58,7 +58,7 @@ class Chemistry extends Marks{//inherits marks class as well
 }
 
 
-public class A5q3 {
+public class Q3 {
     
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
