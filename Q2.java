@@ -8,12 +8,12 @@
 // classes namely Customer, Account, RBI (Base Class) and few derived classes (SBI, ICICI,
 // PNB etc). Assume and implement required member variables and functions in each class.
 
-//ishita mittal
-//19105121
+//Charu Modi
+//19107028
 
 import java.util.Scanner;
 
-class A5q2 { //Tester code
+class Q2 { //Tester code
 
     public static void main(String args[]) {
 
@@ -113,7 +113,7 @@ class A5q2 { //Tester code
       }
   }
 
-public class A5q2 { //class A5q2 which has main method
+public class Q2 { //class Q2 which has main method
 
 public static void main(String args[]) {
 
